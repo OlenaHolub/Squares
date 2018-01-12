@@ -1,0 +1,30 @@
+.container {
+    margin: 10px;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.square-box {
+    border: 2px solid black;
+    width: 50%;
+    height: 400px;
+}
+
+.square {
+    border: 2px solid black;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+
